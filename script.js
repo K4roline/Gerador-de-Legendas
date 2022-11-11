@@ -1,9 +1,17 @@
-var button = document.querySelector('button')
-const name = document.querySelector("gerar")
+// function gerar() {
+    
+// }
+ 
+//  function botao () {
+//     let botao = document.getElementById("Gerar")
 
-function gerar() {
-    name.style.color = "blue";
-}
+//     botao.onclick = function () {
+//         gerar() 
+//     }
+// }
+
+
+
 
 function Frase() { 
     "Olá Marilene"
@@ -13,3 +21,4 @@ function Frase() {
 }
 
 Frase()
+
