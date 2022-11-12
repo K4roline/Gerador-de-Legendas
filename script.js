@@ -10,14 +10,14 @@
 //     }
 // }
 
-button.addEventListener('click', button)
+// button.addEventListener('click', button)
 
-function updateButton() {
-  if (button.value === 'gerar') {
-    button.value = 'gerar';
-    paragraph.textContent = 'The machine has started!';
-  } 
-   }
+// function updateButton() {
+//   if (button.value === 'gerar') {
+//     button.value = 'gerar';
+//     paragraph.textContent = 'The machine has started!';
+//   } 
+//    }
 
 
 
