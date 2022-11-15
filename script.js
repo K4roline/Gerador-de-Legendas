@@ -1,25 +1,22 @@
-// function gerar() {
+function gerar() {
+    if (button.value === 'gerar') {
+        button.value = 'gerar'
+      } 
     
-// }
+}
  
-//  function botao () {
-//     let botao = document.getElementById("Gerar")
+ function botao () {
+    let botao = document.getElementById("Gerar")
 
-//     botao.onclick = function () {
-//         gerar() 
-//     }
-// }
-
-// button.addEventListener('click', button)
-
-// function updateButton() {
-//   if (button.value === 'gerar') {
-//     button.value = 'gerar';
-//     paragraph.textContent = 'The machine has started!';
-//   } 
-//    }
+    botao.onclick = function () {
+        gerar() 
+    }
+}
 
 
+
+
+button.addEventListener('click', button)
 
 function Frases() { 
     'Olá Marilene'
