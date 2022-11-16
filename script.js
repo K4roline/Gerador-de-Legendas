@@ -1,22 +1,15 @@
-function gerar() {
-    if (button.value === 'gerar') {
-        button.value = 'gerar'
-      } 
+// function gerar() {
+//     let botao = document.getElementById("button")
     
-}
- 
- function botao () {
-    let botao = document.getElementById("Gerar")
 
-    botao.onclick = function () {
-        gerar() 
-    }
-}
+//     botao.onclick = function () {
+//         gerar() 
+//     }
+// }
 
 
 
-
-button.addEventListener('click', button)
+// button.addEventListener('click', button)
 
 function Frases() { 
     'Olá Marilene'
@@ -26,4 +19,5 @@ function Frases() {
 }
 
 Frases()
+
 
