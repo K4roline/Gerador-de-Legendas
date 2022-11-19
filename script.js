@@ -10,20 +10,20 @@ var gerar =
     Frases[Math.floor(Math.random()*Frases.length)]
 
 
-//     // const frase = document.getElementById('li').value
+    // const frase = document.getElementById('li').value
 
-//     function gerar() {
-//     let botao = document.innerHTML("button")
+    function gerar() {
+    let botao = document.innerHTML("button")
     
 
-//     // botao.onclick = function () {
-//     //     gerar() 
-//     // }
-// }
+    // botao.onclick = function () {
+    //     gerar() 
+    // }
+}
 
 
 
-// // button.addEventListener('click', button)
+// button.addEventListener('click', button)
 
 
     
