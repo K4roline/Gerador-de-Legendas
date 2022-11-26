@@ -13,15 +13,8 @@ function gerando() {
     var botao = document.getElementById("gerando")
   
 
-    // function total(){
-    //     let quantidade = Number(document.getElementById('frase').value)
-    //     document.getElementById('frase').value = tot
-    //    }
-
-    
-    // function enviar(){
-    //     var valor = document.getElementById("textinput").value;
-    //     alert("Você digitou: " + valor);
-    // }
+    // var contSpan = $('li#'+idOfListItems).find('span');
+    // $(contSpan[0]).html($('#destination-service-dropdown option:selected').text());
 
 
+ 
