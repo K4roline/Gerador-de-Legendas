@@ -13,7 +13,16 @@ function mostrarFrase() {
     }</li> `
 
     let mostrarFrase = Math.floor(Math.random()*"li".length)
-    // console.log(Frases[gerar])
 
 }
 
+// function showContent() {
+//     const phraseToBeShown = 'new phrase'
+//     const ulElement = document.querySelector('#phrase-content')
+    
+//     console.log('Call the show content', phraseToBeShown)
+    
+//     ulElement.innerHTML = `<li>${phraseToBeShown}</li> `
+//   }
+
+//arrumar o elemento de sorteio aleatorio
