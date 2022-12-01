@@ -16,13 +16,3 @@ function mostrarFrase() {
 
 }
 
-// function showContent() {
-//     const phraseToBeShown = 'new phrase'
-//     const ulElement = document.querySelector('#phrase-content')
-    
-//     console.log('Call the show content', phraseToBeShown)
-    
-//     ulElement.innerHTML = `<li>${phraseToBeShown}</li> `
-//   }
-
-//arrumar o elemento de sorteio aleatorio
